@@ -5,16 +5,16 @@ This repository is for practicing the GitHub Flow.
 Autodidact programmer since the '90s; earned a master's degree in software engineering in 2025. Not seeking a professional position.
 
 # education
-Associate Degree in Web/Analyst Programmer (Blackhawk Technical College)
-BS in Information Technology (Upper Iowa University)
+Associate Degree in Web/Analyst Programmer (Blackhawk Technical College)<br>
+BS in Information Technology (Upper Iowa University)<br>
 MS in Software Engineering (UMGC)
 
 # certifications
-Certified .NET Developer
-Certified Database Manager
-Certified Java Programmer
+Certified .NET Developer<br>
+Certified Database Manager<br>
+Certified Java Programmer<br>
 Certified Web Developer
 
 # honor society memberships
-Phi Kappa Phi (2025)
+Phi Kappa Phi (2025)<br>
 Upsilon Pi Epsilon (2024)
